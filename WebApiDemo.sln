@@ -9,6 +9,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Api", "Api", "{F2A5933E-752
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiDemo.ApiClient", "WebApiDemo.ApiClient\WebApiDemo.ApiClient.csproj", "{EB6E2C43-0443-4C86-92D2-EC451967F8A6}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{2D93FBE3-3576-4EAE-B3D5-13E54F5F3244}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
