@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiDemo.Api", "WebApiDemo.Api\WebApiDemo.Api.csproj", "{14EE3CEF-AC06-4C77-9EE7-047B919B5531}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApiDemo.Api", "WebApiDemo.Api\WebApiDemo.Api.csproj", "{14EE3CEF-AC06-4C77-9EE7-047B919B5531}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Api", "Api", "{F2A5933E-752F-4F32-B524-230D6BED56C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiDemo.ApiClient", "WebApiDemo.ApiClient\WebApiDemo.ApiClient.csproj", "{EB6E2C43-0443-4C86-92D2-EC451967F8A6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApiDemo.ApiClient", "WebApiDemo.ApiClient\WebApiDemo.ApiClient.csproj", "{EB6E2C43-0443-4C86-92D2-EC451967F8A6}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{2D93FBE3-3576-4EAE-B3D5-13E54F5F3244}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{A4E9D99F-52B7-4D9C-8327-D105EF2B063F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
